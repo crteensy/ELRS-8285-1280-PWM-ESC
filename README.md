@@ -11,4 +11,4 @@ A 2.4 GHz ELRS resceiver with 4 PWM outputs and a 1S, 5A ESC
 - Testpads to flash ESC firmware through the EFM8's UART - can also be used with an external flight controller and serial passthrough to configure the ESC and re-flash it
 - ExpressLRS can be flashed through the servo header
 
-TBD: Link to RCGroups thread
+RCGroups discussion thread: https://www.rcgroups.com/forums/showthread.php?4040599-DIY-ExpressLRS-2G4-Rx-with-4xPWM-output-and-an-on-board-1S-ESC#post48415931
