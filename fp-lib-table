@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name ELRS_ESP8285_PWM5)(type KiCad)(uri ${KIPRJMOD}/mod/ELRS_ESP8285_PWM5.pretty)(options "")(descr ""))
+  (lib (name UT6MA3)(type KiCad)(uri ${KIPRJMOD}/mod/UT6MA3.pretty)(options "")(descr ""))
+  (lib (name NC7NZ14)(type KiCad)(uri ${KIPRJMOD}/mod/NC7NZ14.pretty)(options "")(descr ""))
+  (lib (name servo_edge)(type KiCad)(uri ${KIPRJMOD}/mod/servo_edge.pretty)(options "")(descr ""))
+)
