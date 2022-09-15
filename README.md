@@ -1,6 +1,13 @@
 # ELRS-8285-1280-PWM-ESC
 A 2.4 GHz ELRS resceiver with 4 PWM outputs and a 1S, 5A ESC
 
+### Revision 1.1
+- should now be more robust with two servos on one channel through a Y cable
+ - adjusted pull-up value on PWM1
+ - added pull-up on PWM2
+- this required a minor layout change for the added pull-up
+
+### Overview:
 - 2.4 GHz ExpressLRS receiver, ESP8285 based, with WiFi antenna
 - 4 Servo PWM outputs
 - on-board ESC
