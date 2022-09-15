@@ -1863,7 +1863,7 @@
     (property "Sheetname" "")
     (path "/957abacf-4a19-4f41-b6a9-4ac9f1524cf8")
     (attr smd)
-    (fp_text reference "R29" (at 0 -1.17) (layer "F.SilkS")
+    (fp_text reference "R29" (at 0 -1.17) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2887f18d-0aa0-4560-89a5-469e7311c504)
     )
